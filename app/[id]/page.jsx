@@ -10,6 +10,8 @@ export default function DetailPage({params}) {
       <p>and this is another name</p>
       <h1>this is yihenew</h1>
       <h1>this is yihenew</h1>
+      <h1>this is yihenew</h1>
+      <h1>this is yihenew</h1>
     </div>
   )
 }
